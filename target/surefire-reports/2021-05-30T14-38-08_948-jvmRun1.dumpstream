@@ -1,0 +1,9 @@
+# Created at 2021-05-30T14:38:39.716
+invalid session id
+Build info: version: '4.0.0-beta-3', revision: '5d108f9a67'
+System info: host: 'mohit-Inspiron-3542', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-73-generic', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b2df7762011c325a2678eea1ee597cc2, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: /tmp/.com.google.Chrome.FS9FDs}, goog:chromeOptions: {debuggerAddress: localhost:42381}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:42381/devtoo..., se:cdpVersion: 91.0.4472.77, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b2df7762011c325a2678eea1ee597cc2
+
